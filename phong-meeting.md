@@ -12,3 +12,7 @@
 * The ethernet port is completely separate from the UBC secure wifi network. The port itself has the 40GB limit
 * Should check to see if there's still the other router that I can set up -> this would give me admin privileges
 * With admin privileges, I would be able to set up port forwarding -> this is a safer long-term solution if I intend to have my device as a volunteer node longer term
+
+---
+**Notes while doing it:**
+* IP Address of computer 
