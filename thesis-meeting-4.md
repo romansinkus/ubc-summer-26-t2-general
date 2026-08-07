@@ -14,5 +14,4 @@
 * With admin privileges, I would be able to set up port forwarding -> this is a safer long-term solution if I intend to have my device as a volunteer node longer term
 
 ---
-**Notes while doing it:**
-* IP Address of computer 
+THIS WAS MEETING #4 
